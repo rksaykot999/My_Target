@@ -117,18 +117,6 @@ body {
     height: 100vh;
 }
 
-
-/* Main Content */
-
-
-/* All Section Display{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-} */
-
 /* Section-1 */
 .section-1{
     display: flex;
@@ -280,7 +268,7 @@ body {
     height: 313px;
 }
 
-.suport {
+.support {
     display: flex;
     flex-direction: column;
     justify-content: center;

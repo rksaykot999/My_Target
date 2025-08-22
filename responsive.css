@@ -1,0 +1,79 @@
+@media screen and (max-width:768px) {
+    .banner-content {
+        padding: 0;
+    }
+
+    .banner img {
+        width: 80vw;
+    }
+
+    .banner h3 {
+        padding: 0;
+    }
+
+    .banner p {
+        padding: 0;
+    }
+
+    .section-1 {
+        margin: 50px 0;
+    }
+
+    .web-develpopment {
+        width: 100vw;
+        height: 100vh;
+        margin-bottom: 500px;
+        padding: 0;
+    }
+
+    .why-web-development {
+        width: 100vw;
+        padding-left: 0;
+    }
+
+    .about-box {
+        padding: 10px;
+    }
+
+    .box img {
+        width: 50vw;
+    }
+
+    .my-inspiration {
+        width: 100vw;
+    }
+
+    .yt-vedio iframe {
+        width: 100vw;
+    }
+
+    .current-target-continer {
+        flex-direction: column;
+    }
+
+    #t-box-1,
+    #t-box-2,
+    #t-box-3 {
+        width: 300px;
+    }
+
+    #next-target-1,
+    #next-target-2,
+    #next-target-3 {
+        width: 90vw;
+        padding: 0;
+        padding-bottom: 30px;
+    }
+
+    .need-support {
+        border-radius: 10px;
+        width: 100vw;
+    }
+
+    .support{
+        padding: 10px;
+    }
+    footer h4 {
+        width: 60vw;
+    }
+}
