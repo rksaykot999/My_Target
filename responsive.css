@@ -67,11 +67,17 @@
 
     .need-support {
         border-radius: 10px;
-        width: 100vw;
+        width: 95vw;
+    }
+    .submit-now{
+        padding: 0 10px;
     }
 
     .support{
         padding: 10px;
+    }
+    footer{
+        width: 100vw;
     }
     footer h4 {
         width: 60vw;
