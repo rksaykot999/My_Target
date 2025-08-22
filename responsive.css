@@ -1,10 +1,11 @@
 @media screen and (max-width:768px) {
     .banner-content {
         padding: 0;
+        width: 95vw;
     }
 
     .banner img {
-        width: 80vw;
+        width: 70vw;
     }
 
     .banner h3 {
@@ -29,6 +30,10 @@
     .why-web-development {
         width: 100vw;
         padding-left: 0;
+        padding-bottom: 10px;
+    }
+    .why-web-development p {
+        width: 100vw;
     }
 
     .about-box {
@@ -36,7 +41,7 @@
     }
 
     .box img {
-        width: 50vw;
+        width: 40%;
     }
 
     .my-inspiration {
@@ -54,7 +59,7 @@
     #t-box-1,
     #t-box-2,
     #t-box-3 {
-        width: 300px;
+        width: 70vw;
     }
 
     #next-target-1,
